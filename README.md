@@ -1,2 +1,5 @@
 # projeto-repositorio-teste
-Testando a criação de um repositório de dicas de Python como teste
+
+- Testando a criação de um repositório de dicas de Python como teste
+
+- Não vai para remoto
